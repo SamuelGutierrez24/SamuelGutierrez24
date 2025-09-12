@@ -51,8 +51,10 @@ I'm a **Software Engineering student** at Universidad Icesi with a strong backgr
 
 ## 🏆 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/SamuelGutierrez24/project-1)
-> Brief description of your first highlighted project. Explain what it does, the technologies used, and what makes it special.
+### 🌟 [ML And IA Projects]
+<a href="https://github.com/SamuelGutierrez24/IA-and-ML-Projects">
+
+</a>
 
 **Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
 
