@@ -52,16 +52,9 @@ I'm a **Software Engineering student** at Universidad Icesi with a strong backgr
 ## 🏆 Featured Projects
 
 ### 🌟 [ML And IA Projects]
-<a href="https://github.com/SamuelGutierrez24/IA-and-ML-Projects">
-
+<a href="https://github.com/SamuelGutierrez24/AI-and-ML-Projects">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelGutierrez24&repo=AI-and-ML-Projects&theme=tokyonight" />
 </a>
-
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
-
-### 🌟 [Project Name 2](https://github.com/SamuelGutierrez24/project-2)
-> Brief description of your second highlighted project. Focus on the problem it solves and the impact it has.
-
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
 
 ## 📊 GitHub Stats
 
