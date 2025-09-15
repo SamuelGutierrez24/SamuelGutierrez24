@@ -12,7 +12,6 @@ I'm a **Software Engineering student** at Universidad Icesi with a strong backgr
 - 👨‍💻 Course Assistant helping students master Python and problem-solving
 - 🌱 Currently expanding my knowledge in **AWS Cloud Foundation** and **AI Agents**
 - 💡 Always eager to learn new technologies and tackle challenging projects
-- 🎯 Focused on creating impactful solutions through code
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +53,11 @@ I'm a **Software Engineering student** at Universidad Icesi with a strong backgr
 ### 🌟 [ML And IA Projects]
 <a href="https://github.com/SamuelGutierrez24/AI-and-ML-Projects">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelGutierrez24&repo=AI-and-ML-Projects&theme=tokyonight" />
+</a>
+
+### 🌟 [ML And IA Projects]
+<a href="https://github.com/SamuelGutierrez24/Soccer-Predictions-Tournaments">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelGutierrez24&repo=Soccer-Predictions-Tournaments&theme=tokyonight" />
 </a>
 
 ## 📊 GitHub Stats
